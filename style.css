@@ -1,0 +1,19 @@
+#heading {
+    text-align: center;
+}
+
+
+li {
+    color: rgb(13, 143, 143);
+    font-size: 23px;
+    text-align: center;
+    list-style-type: none;
+}
+
+.border {
+    border: 3px solid green;
+}
+
+.link {
+    text-align: center;
+}
